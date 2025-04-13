@@ -5,10 +5,10 @@
 ## 🔧 工具选择建议
 
 - **开发环境**：Visual Studio Code  
-- **界面开发**：Qt Designer + PyQt5（或 Qt6）
-- **后端逻辑**：C++ / Python
+- **界面开发**：Qt
+- **后端逻辑**：C++
 - **地图显示**：嵌入 WebView 加载 OpenStreetMap / Leaflet
-- **数学计算**：自定义公式 + Numpy
+- **数学计算**：自定义公式
 
 ---
 
@@ -25,6 +25,6 @@
 
 ---
 
-## 🖥️ UI界面结构设计（Suggestion PyQt）
+## 🖥️ UI界面结构设计（Qt）
 
 
